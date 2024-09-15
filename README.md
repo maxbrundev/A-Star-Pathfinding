@@ -1,5 +1,5 @@
 ## A-Star-Pathfinding
-Back to basics with a fun SFML project to do a little break from projects in progress, the idea is coming from a video showing off algorithms debug visualization
+Back to basics with a fun SFML project to do a little break from projects in progress, the idea is coming from a video showing some animated algorithms debug visualization
 
 ![pathfinding](https://github.com/user-attachments/assets/2ad3f953-eb35-4b34-9bd0-a7b38606ad8a)
 
